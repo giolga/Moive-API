@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YtMovieApis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b85fc70986fab725f7ee99b0ba64fea0f42736f")]
 [assembly: System.Reflection.AssemblyProductAttribute("YtMovieApis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YtMovieApis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

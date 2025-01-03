@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\repository\\domain\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\repository\\domain\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\repository\\abstract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\repository\\abstract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\models\\dto\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\models\\dto\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\models\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\models\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\models\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\models\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\repository\\domain\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\repository\\domain\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|c:\\users\\giolga\\desktop\\ytmovieapis\\ytmovieapis\\models\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73AB0BC-5862-4CC9-8F7E-091691514BF0}|YtMovieApis\\YtMovieApis.csproj|solutionrelative:ytmovieapis\\models\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,6 +34,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
@@ -50,55 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\appsettings.json",
-              "RelativeDocumentMoniker": "YtMovieApis\\appsettings.json",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\appsettings.json",
-              "RelativeToolTip": "YtMovieApis\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T16:27:07.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Domain\\TokenService.cs",
-              "RelativeDocumentMoniker": "YtMovieApis\\Repository\\Domain\\TokenService.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Domain\\TokenService.cs",
-              "RelativeToolTip": "YtMovieApis\\Repository\\Domain\\TokenService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAAoAAAAAAAAAA==",
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "YtMovieApis\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "YtMovieApis\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAJEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:22:59.818Z",
+              "WhenOpened": "2025-01-02T14:10:19.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Abstract\\ITokenService.cs",
-              "RelativeDocumentMoniker": "YtMovieApis\\Repository\\Abstract\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Abstract\\ITokenService.cs",
-              "RelativeToolTip": "YtMovieApis\\Repository\\Abstract\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "YtMovieApis\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "YtMovieApis\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:08:17.991Z",
+              "WhenOpened": "2025-01-02T13:53:28.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Models\\DTO\\Status.cs",
-              "RelativeDocumentMoniker": "YtMovieApis\\Models\\DTO\\Status.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Models\\DTO\\Status.cs",
-              "RelativeToolTip": "YtMovieApis\\Models\\DTO\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Domain\\TokenService.cs",
+              "RelativeDocumentMoniker": "YtMovieApis\\Repository\\Domain\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Repository\\Domain\\TokenService.cs",
+              "RelativeToolTip": "YtMovieApis\\Repository\\Domain\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:07:00.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T16:22:59.818Z"
             },
             {
               "$type": "Document",
@@ -110,31 +92,17 @@
               "RelativeToolTip": "YtMovieApis\\Models\\DTO\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:05:39.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T16:05:39.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Models\\Domain\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "YtMovieApis\\Models\\Domain\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Models\\Domain\\AppDbContext.cs",
-              "RelativeToolTip": "YtMovieApis\\Models\\Domain\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T15:30:33.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Program.cs",
               "RelativeDocumentMoniker": "YtMovieApis\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\YtMovieApis\\YtMovieApis\\Program.cs",
               "RelativeToolTip": "YtMovieApis\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T15:27:35.26Z",
               "EditorCaption": ""

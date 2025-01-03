@@ -1,5 +1,126 @@
 [
   {
+    "ContainingType": "YtMovieApis.Controllers.AuthorizationController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Authorization/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "YtMovieApis.Models.DTO.ChangePasswordModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YtMovieApis.Controllers.AuthorizationController",
+    "Method": "Login",
+    "RelativePath": "api/Authorization/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "YtMovieApis.Models.DTO.LoginModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YtMovieApis.Controllers.AuthorizationController",
+    "Method": "Registration",
+    "RelativePath": "api/Authorization/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "YtMovieApis.Models.DTO.RegistrationModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YtMovieApis.Controllers.AuthorizationController",
+    "Method": "RegistrationAdmin",
+    "RelativePath": "api/Authorization/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "YtMovieApis.Models.DTO.RegistrationModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YtMovieApis.Controllers.TokenController",
+    "Method": "Refresh",
+    "RelativePath": "api/Token/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenApiModel",
+        "Type": "YtMovieApis.Models.DTO.RefreshTokenRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YtMovieApis.Controllers.TokenController",
+    "Method": "Revoke",
+    "RelativePath": "api/Token/{action}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "action",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "YtMovieApis.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

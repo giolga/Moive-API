@@ -66,6 +66,7 @@ C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\YtMovieApis.Ass
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\YtMovieApis.csproj.CoreCompileInputs.cache
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\YtMovieApis.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\YtMovieApis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\YtMovieApis.sourcelink.json
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\GioLGA\Desktop\YtMovieApis\YtMovieApis\obj\Debug\net6.0\staticwebassets\msbuild.YtMovieApis.Microsoft.AspNetCore.StaticWebAssets.props

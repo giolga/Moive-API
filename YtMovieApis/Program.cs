@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using YtMovieApis.Models.Domain;
+using YtMovieApis.Repository.Abstract;
+using YtMovieApis.Repository.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -40,11 +42,13 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuer = true,
         ValidateAudience = true,
         ValidAudience = builder.Configuration["JWT:ValidAudience"],
-        ValidIssuer = builder.Configuration["Jwt:ValidIssuer"],
+        ValidIssuer = builder.Configuration["JWT:ValidIssuer"],
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Secret"]))
     };
 
 });
+
+builder.Services.AddTransient<ITokenService, TokenService>();
 
 var app = builder.Build();
 
@@ -53,6 +57,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+
 }
 
 app.UseHttpsRedirection();
@@ -60,7 +65,7 @@ app.UseHttpsRedirection();
 //this two
 app.UseCors(options =>
 {
-    options.WithOrigins("*").AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+    options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
 });
 
 app.UseAuthentication();
